@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning html, css and javascript
 - 💞️ I’m looking to collaborate on any of my projects
-- 📫 How to reach me? here on github or on twitter @SasirNaleh
+- 📫 How to reach me? here on github or on twitter @NassirSal
 
 <!---
 NasirSal/NasirSal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
