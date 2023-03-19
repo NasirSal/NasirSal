@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nassirsaleh
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning HTML, CSS and Javascript
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any of my projects
 - 📫 How to reach me? here on github or on twitter @nassiirsaleh
 
